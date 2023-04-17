@@ -1,6 +1,8 @@
 # ZGU_baki_IS21
 Репозиторий для лабораторных работ по дисциплине "Базы данных"
 ========================
+## Лекции
+[Лекционные материалы ] (https://drive.google.com/drive/folders/1rHI2UryIMo35Q-lCUZYopw8V5Hnf5e9z?usp=share_link)
 
 ## Лабораторная работа № 0
 
